@@ -1,20 +1,45 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of electric vehicles.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What powers an EV?",
+      "answers": ["Battery", "Fuel", "Solar"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does EV stand for?",
+      "answers": ["Eco Van", "Elect Van", "Electric Vehicle"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is a famous EV maker?",
+      "answers": ["Tesla", "Ford", "BMW"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is a Tesla Model?",
+      "answers": ["S", "3", "Both"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which part is not in an EV?",
+      "answers": ["Engine", "Battery", "Motor"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is an EV benefit?",
+      "answers": ["No Emissions", "Loud", "Expensive"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which EV has the longest range?",
+      "answers": ["Model S", "Leaf", "Bolt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EV charging type?",
+      "answers": ["AC", "DC", "Both"],
+      "correctAnswerIndex": 2
     }
   ]
 }
